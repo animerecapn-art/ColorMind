@@ -13,6 +13,7 @@ import {
   Palette,
   Check,
   Zap,
+  Layout,
 } from "lucide-react";
 import { addHistoryItem } from "../../lib/db";
 import ColorDetails from "../../components/ColorDetails";
