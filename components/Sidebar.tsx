@@ -27,6 +27,7 @@ interface SidebarItem {
 
 const SIDEBAR_ITEMS: SidebarItem[] = [
   { name: "Inspector", href: "/inspector", icon: Globe },
+  { name: "AI Generator", href: "/generator", icon: Sparkles },
   { name: "Images", href: "/images", icon: ImageIcon },
   { name: "History", href: "/history", icon: History },
   { name: "Favorites", href: "/favorites", icon: Heart },
